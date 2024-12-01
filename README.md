@@ -1,4 +1,4 @@
-# Hi there 👋, My name is Kawsar Ahmmed Hridoy
+# Hi there 👋, Myself Kawsar Ahmmed Hridoy
 
 <img width="100%" src="https://static.soapcentral.com/editor/2024/09/dc884-17262004042678.jpg?w=640" alt="Hridoy's banner">
 
