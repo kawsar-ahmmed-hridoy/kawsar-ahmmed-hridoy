@@ -104,8 +104,9 @@
 </p>
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=kawsar-ahmmed-hridoy&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="itsHridoy's streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawsar-ahmmed-hridoy&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="itsHridoy's streak"/>
 </p>
+
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=kawsar-ahmmed-hridoy&theme=dark&column=4&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="itsHridoy's trophies"/>
@@ -113,7 +114,7 @@
 
 <h3 align="center">Contribution Snake</h3>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/kawsar-ahmmed-hridoy/kawsar-ahmmed-hridoy/main/github-contribution-grid-snake.svg" alt="snake"/>
+    <img src="https://github.com/kawsar-ahmmed-hridoy/kawsar-ahmmed-hridoy/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p> 
 </details>
 
