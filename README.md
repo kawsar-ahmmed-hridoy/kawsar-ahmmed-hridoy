@@ -46,7 +46,7 @@
 <ul>
 <li>🔭 Asst. Publication Secretary at Sports SUST & Tangail Student's Association of SUST</li>
 <li>🌱 Currently focused on Web Development, Machine Learning, App Development, Game Development, AI Development & Competitive Programming</li>
-<li>👨‍💻 All projects available at <a href="https://github.com/kawsar-ahmmed-hridoy">GitHub</a></li>
+<li>👨‍💻 All projects available at <a href="https://github.com/kawsar-ahmmed-hridoy?tab=repositories">GitHub</a></li>
 <li>📫 Contact me at <strong>kawsarhridoy0146@gmail.com</strong></li>
 <li>⚡ Fun fact: Just becoming introvert day by day</li>
 </ul>
