@@ -28,7 +28,7 @@
 <details open>
 <summary>Wish Card</summary>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+my+GitHub+Profile!" alt="Wish Card"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=Whassap+there+?++Welcome+to+my+GitHub+Profile!" alt="Wish Card"/>
 </p>
 </details>
 <details open>
