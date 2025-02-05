@@ -1,5 +1,7 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Kawsar Ahmmed Hridoy</h1>
 
+<img width="100%" height="70%" src="https://i.redd.it/n8agw6z2smyb1.gif" alt="Home Page">
+
 <p align="center">
     <img src="https://img.shields.io/badge/Focus-Competitive%20Programming-C2FFC7?style=flat" />
     <img src="https://img.shields.io/badge/Focus-Machine Learning-CB9DF0?style=flat" />
