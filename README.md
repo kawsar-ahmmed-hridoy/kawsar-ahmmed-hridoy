@@ -81,8 +81,8 @@
 <details open>
 <summary>Top Repositories</summary>
 <p align="center">
-    <a href="https://github.com/kawsar-ahmmed-hridoy/Shopping-Site">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawsar-ahmmed-hridoy&repo=Shopping-Site&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    <a href="https://github.com/kawsar-ahmmed-hridoy/Operating_System_Lab">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawsar-ahmmed-hridoy&repo=Operating_System_Lab&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
     </a>
     <a href="https://github.com/kawsar-ahmmed-hridoy/AirwayShooter">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawsar-ahmmed-hridoy&repo=AirwayShooter&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
