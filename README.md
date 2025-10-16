@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Kawsar Ahmmed Hridoy</h1>
 
-<p align="center"> <img width="60%" src="https://media3.giphy.com/media/l0He4nkyI5cMhXzvW/giphy.gif?cid=6c09b952xiza2cufb07bl2bj6k7t17tvms791n6st6tkb8qm&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Hridoy's mood rn"> </p>
+<p align="center"> <img width="60%" src="https://wallpapers-clan.com/wp-content/uploads/2024/08/dc-comics-batman-rain-gif-desktop-wallpaper-preview.gif" alt="Hridoy's mood rn"> </p>
 
 
 <p align="center">
