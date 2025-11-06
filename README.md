@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Kawsar Ahmmed Hridoy</h1>
+<h2 align="center">It's not who I am underneath, but what I do that defines me & Swear to me!"</h2>
 
 <p align="center"> <img width="60%" src="https://wallpapers-clan.com/wp-content/uploads/2024/08/dc-comics-batman-rain-gif-desktop-wallpaper-preview.gif" alt="Hridoy's mood rn"> </p>
 
@@ -31,7 +31,7 @@
 <details open>
 <summary>Wish Card</summary>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=Whassap+there+?++Welcome+to+my+GitHub+Profile!" alt="Wish Card"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=E64A19&center=true&vCenter=true&random=false&width=800&lines=Yess,+I'm+Batman!" alt="Wish Card"/>
 </p>
 </details>
 <details open>
