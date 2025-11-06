@@ -1,4 +1,4 @@
-<h2 align="center">It's not who I am underneath, but what I do that defines me & Swear to me!"</h2>
+<h2 align="center">It's not who I am underneath, but what I do that defines me & Swear to me!</h2>
 
 <p align="center"> <img width="60%" src="https://wallpapers-clan.com/wp-content/uploads/2024/08/dc-comics-batman-rain-gif-desktop-wallpaper-preview.gif" alt="Hridoy's mood rn"> </p>
 
