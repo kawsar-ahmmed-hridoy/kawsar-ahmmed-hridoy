@@ -1,7 +1,9 @@
-<h2 align="center">It's not who I am underneath, but what I do that defines me!</h2>
+<h3 align="center">It's not who I am underneath, but what I do that defines me!</h3>
 
-<p align="center"> <img width="60%" src="https://wallpapers-clan.com/wp-content/uploads/2024/08/dc-comics-batman-rain-gif-desktop-wallpaper-preview.gif" alt="Hridoy's mood rn"> </p>
-
+<p align="center"> <img width="50%" src="https://wallpapers-clan.com/wp-content/uploads/2024/08/dc-comics-batman-rain-gif-desktop-wallpaper-preview.gif" alt="Hridoy's mood rn"> </p>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=E64A19&center=true&vCenter=true&random=false&width=800&lines=Yess,+I'm+Batman!" alt="Wish Card"/>
+</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Focus-Competitive%20Programming-C2FFC7?style=flat" />
@@ -13,91 +15,57 @@
     <img src="https://komarev.com/ghpvc/?username=kawsar-ahmmed-hridoy&label=Profile%20Views&color=000000&style=flat&labelColor=C2FFC7" />
 </p>
 
+
 <details open>
 <summary>Connect With Me</summary>
 <p align="center">
-    <a href="https://www.instagram.com/hrid_oyee?igsh=aWRic2UyaDdxZGM3">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <a href="https://www.linkedin.com/in/kawsar-ahmmed-hridoy">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="28"/>
     </a>
+    <span><---></span>
     <a href="https://www.facebook.com/share/162wDSbcSW/">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-    </a>
-    <a href="https://x.com/KawsarAhmmedHr3?t=rl-3fFF2g-niHh4uw9fqZQ&s=09">
-        <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-    </a>    
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/960px-2023_Facebook_icon.svg.png" width="28"/>
+    </a>  
 </p>
 </details>
-
-<details open>
-<summary>Wish Card</summary>
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=E64A19&center=true&vCenter=true&random=false&width=800&lines=Yess,+I'm+Batman!" alt="Wish Card"/>
-</p>
-</details>
-<details open>
-    <summary>Connect with me on LinkedIn</summary>
-    <p align="center">
-        <a href="https://www.linkedin.com/in/kawsar-ahmmed-hridoy-4196bb299">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="28" alt="Connect on LinkedIn" />
-            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-        </a>
-    </p>       
-</details>    
-
+   
 <details open>
 <summary>About Me</summary>
 <ul>
-<li>🔭 Asst. Publication Secretary at Sports SUST & Tangail Student's Association of SUST</li>
-<li>🌱 Currently focused on Web Development, Machine Learning, App Development, Game Development, AI Development & Competitive Programming</li>
-<li>👨‍💻 All projects available at <a href="https://github.com/kawsar-ahmmed-hridoy?tab=repositories">GitHub</a></li>
+<li>🔭 Asst. General Secretary at SWE Society, SUST</li>
 <li>📫 Contact me at <strong>kawsarhridoy0146@gmail.com</strong></li>
-<li>⚡ Fun fact: Just becoming introvert day by day</li>
 </ul>
 </details>
 
 <details open>
 <summary>Skills & Tools</summary>
+
 <h3 align="center">Languages & Frameworks</h3>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-</p>
+
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40"/></td>
+  </tr>
+</table>
 
 <h3 align="center">Prototype Build-up Tools</h3>
-<p align="center">
-    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-</p>
-</details>
 
-<details open>
-<summary>Top Repositories</summary>
-<p align="center">
-    <a href="https://github.com/kawsar-ahmmed-hridoy/Operating_System_Lab">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawsar-ahmmed-hridoy&repo=Operating_System_Lab&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
-    </a>
-    <a href="https://github.com/kawsar-ahmmed-hridoy/AirwayShooter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawsar-ahmmed-hridoy&repo=AirwayShooter&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
-    </a>
-    <a href="https://github.com/kawsar-ahmmed-hridoy/Project_SWE150_-2021831017">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawsar-ahmmed-hridoy&repo=Project_SWE150_-2021831017&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
-    </a>
-</p>
-</details>
+<table align="center">
+  <tr>
+    <td><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></td>
+  </tr>
+</table>
 
-<details open>
-<summary>GitHub Contribution Chart</summary>
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kawsar-ahmmed-hridoy&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" />
-</p>
 </details>
 
 <details open>
